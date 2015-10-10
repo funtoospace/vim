@@ -12,4 +12,5 @@ unpacking another binary archive!  Check the output of ":version":
 Win32 with OLE - "MS-Windows 32 bit GUI version with OLE support"
 
 For further information, type this inside Vim:
-	:help win32s
+	:help win32s.
+
